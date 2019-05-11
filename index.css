@@ -47,3 +47,8 @@ footer {
   flex-basis: 100px;
   flex-grow: 1;
 }
+
+.plop {
+  flex-end: align-self
+}
+}
