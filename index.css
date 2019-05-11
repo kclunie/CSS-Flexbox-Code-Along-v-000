@@ -49,5 +49,5 @@ footer {
 }
 
 .plop {
-  align-self
+  align-self: flex-end;
 }
